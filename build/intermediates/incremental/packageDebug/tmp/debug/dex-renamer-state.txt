@@ -1,0 +1,4 @@
+#Mon Aug 19 17:12:49 CST 2019
+base.0=G\:\\3399_AI\\Debugging_Demo\\speech synthesis\\speech_synthesis\\speech_synthesis\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
