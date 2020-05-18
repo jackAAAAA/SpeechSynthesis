@@ -2,3 +2,6 @@
 # SpeechSynthesis
 SDK
 Introduction: SpeechSynthesis SDK can compound various languages including Chinese,English,and some  of Chinese dialects by editable text messages.
+
+If you want to konw more,please contact me by my eamil.
+Thanks!
